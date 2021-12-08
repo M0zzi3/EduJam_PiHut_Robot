@@ -41,6 +41,7 @@ class Robot:
         GPIO.setwarnings(False)
 
         print("test")
+        print("test2")
         self.motor1 = Motor(7,8)
         self.motor2 = Motor(9,10)
 
