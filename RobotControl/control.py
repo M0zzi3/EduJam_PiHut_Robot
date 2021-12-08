@@ -47,3 +47,6 @@ while True:
             listener.join()
 
         user.send("end")
+
+    elif msg == "Follow":
+        print("Now robot will be following the black line")
