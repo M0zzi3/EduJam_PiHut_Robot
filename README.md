@@ -1,3 +1,2 @@
-# first-robot
+# EduJam Robot - PiHut
 
-ebeebe
